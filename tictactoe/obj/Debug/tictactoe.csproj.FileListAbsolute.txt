@@ -1,0 +1,14 @@
+C:\Users\naumo\source\repos\tictactoe\bin\Debug\tictactoe.exe.config
+C:\Users\naumo\source\repos\tictactoe\bin\Debug\tictactoe.exe
+C:\Users\naumo\source\repos\tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\naumo\source\repos\tictactoe\obj\Debug\tictactoe.csprojAssemblyReference.cache
+C:\Users\naumo\source\repos\tictactoe\obj\Debug\MainWindow.g.cs
+C:\Users\naumo\source\repos\tictactoe\obj\Debug\App.g.cs
+C:\Users\naumo\source\repos\tictactoe\obj\Debug\tictactoe_MarkupCompile.cache
+C:\Users\naumo\source\repos\tictactoe\obj\Debug\tictactoe_MarkupCompile.lref
+C:\Users\naumo\source\repos\tictactoe\obj\Debug\MainWindow.baml
+C:\Users\naumo\source\repos\tictactoe\obj\Debug\tictactoe.g.resources
+C:\Users\naumo\source\repos\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+C:\Users\naumo\source\repos\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
+C:\Users\naumo\source\repos\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\naumo\source\repos\tictactoe\obj\Debug\tictactoe.pdb
