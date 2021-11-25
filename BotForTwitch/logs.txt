@@ -1,0 +1,469 @@
+Connecting to: wss://irc-ws.chat.twitch.tv:443
+Should be connected!
+Joining channel: elevatorio
+Received: :tmi.twitch.tv 001 elevatorro :Welcome, GLHF!
+Received: :tmi.twitch.tv 002 elevatorro :Your host is tmi.twitch.tv
+Received: :tmi.twitch.tv 003 elevatorro :This server is rather new
+Received: :tmi.twitch.tv 004 elevatorro :-
+Received: :tmi.twitch.tv 375 elevatorro :-
+Received: :tmi.twitch.tv 372 elevatorro :You are in a maze of twisty passages, all alike.
+Received: :tmi.twitch.tv 376 elevatorro :>
+Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership (please create a TwitchLib GitHub issue :P)
+Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands (please create a TwitchLib GitHub issue :P)
+Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags (please create a TwitchLib GitHub issue :P)
+Received: :elevatorro!elevatorro@elevatorro.tmi.twitch.tv JOIN #elevatorio
+Received: :elevatorro.tmi.twitch.tv 353 elevatorro = #elevatorio :elevatorro
+Received: :elevatorro.tmi.twitch.tv 366 elevatorro #elevatorio :End of /NAMES list
+Finished channel joining queue.
+Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+Received: @emote-only=0;followers-only=0;r9k=0;rituals=0;room-id=493920013;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #elevatorio
+Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+Finished channel joining queue.
+Received: :elevatorio!elevatorio@elevatorio.tmi.twitch.tv JOIN #elevatorio
+17.10.2021 22:40:16:    Connecting to: wss://irc-ws.chat.twitch.tv:443
+17.10.2021 22:40:20:    Should be connected!
+17.10.2021 22:40:20:    Joining channel: elevatorio
+17.10.2021 22:40:20:    Received: :tmi.twitch.tv 001 elevatorro :Welcome, GLHF!
+17.10.2021 22:40:20:    Received: :tmi.twitch.tv 002 elevatorro :Your host is tmi.twitch.tv
+17.10.2021 22:40:20:    Received: :tmi.twitch.tv 003 elevatorro :This server is rather new
+17.10.2021 22:40:20:    Received: :tmi.twitch.tv 004 elevatorro :-
+17.10.2021 22:40:20:    Received: :tmi.twitch.tv 375 elevatorro :-
+17.10.2021 22:40:20:    Received: :tmi.twitch.tv 372 elevatorro :You are in a maze of twisty passages, all alike.
+17.10.2021 22:40:20:    Received: :tmi.twitch.tv 376 elevatorro :>
+17.10.2021 22:40:20:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+17.10.2021 22:40:20:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership (please create a TwitchLib GitHub issue :P)
+17.10.2021 22:40:20:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+17.10.2021 22:40:20:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands (please create a TwitchLib GitHub issue :P)
+17.10.2021 22:40:20:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+17.10.2021 22:40:20:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags (please create a TwitchLib GitHub issue :P)
+17.10.2021 22:40:20:    Received: :elevatorro!elevatorro@elevatorro.tmi.twitch.tv JOIN #elevatorio
+17.10.2021 22:40:20:    Received: :elevatorro.tmi.twitch.tv 353 elevatorro = #elevatorio :elevatorro
+17.10.2021 22:40:20:    Received: :elevatorro.tmi.twitch.tv 366 elevatorro #elevatorio :End of /NAMES list
+17.10.2021 22:40:20:    Finished channel joining queue.
+17.10.2021 22:40:20:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+17.10.2021 22:40:20:    Received: @emote-only=0;followers-only=0;r9k=0;rituals=0;room-id=493920013;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #elevatorio
+17.10.2021 22:40:21:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+17.10.2021 22:40:21:    Finished channel joining queue.
+17.10.2021 22:41:36:    Connecting to: wss://irc-ws.chat.twitch.tv:443
+17.10.2021 22:41:39:    Should be connected!
+17.10.2021 22:41:40:    Joining channel: elevatorio
+17.10.2021 22:41:40:    Received: :tmi.twitch.tv 001 elevatorro :Welcome, GLHF!
+17.10.2021 22:41:40:    Received: :tmi.twitch.tv 002 elevatorro :Your host is tmi.twitch.tv
+17.10.2021 22:41:40:    Received: :tmi.twitch.tv 003 elevatorro :This server is rather new
+17.10.2021 22:41:40:    Received: :tmi.twitch.tv 004 elevatorro :-
+17.10.2021 22:41:40:    Received: :tmi.twitch.tv 375 elevatorro :-
+17.10.2021 22:41:40:    Received: :tmi.twitch.tv 372 elevatorro :You are in a maze of twisty passages, all alike.
+17.10.2021 22:41:40:    Received: :tmi.twitch.tv 376 elevatorro :>
+17.10.2021 22:41:40:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+17.10.2021 22:41:40:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership (please create a TwitchLib GitHub issue :P)
+17.10.2021 22:41:40:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+17.10.2021 22:41:40:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands (please create a TwitchLib GitHub issue :P)
+17.10.2021 22:41:40:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+17.10.2021 22:41:40:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags (please create a TwitchLib GitHub issue :P)
+17.10.2021 22:41:40:    Received: :elevatorro!elevatorro@elevatorro.tmi.twitch.tv JOIN #elevatorio
+17.10.2021 22:41:40:    Received: :elevatorro.tmi.twitch.tv 353 elevatorro = #elevatorio :elevatorro
+17.10.2021 22:41:40:    Received: :elevatorro.tmi.twitch.tv 366 elevatorro #elevatorio :End of /NAMES list
+17.10.2021 22:41:40:    Finished channel joining queue.
+17.10.2021 22:41:40:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+17.10.2021 22:41:40:    Received: @emote-only=0;followers-only=0;r9k=0;rituals=0;room-id=493920013;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #elevatorio
+17.10.2021 22:41:41:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+17.10.2021 22:41:41:    Finished channel joining queue.
+17.10.2021 22:41:56:    Received: :elevatorio!elevatorio@elevatorio.tmi.twitch.tv JOIN #elevatorio
+20.10.2021 18:07:45:    Connecting to: wss://irc-ws.chat.twitch.tv:443
+20.10.2021 18:07:54:    Should be connected!
+20.10.2021 18:07:55:    Joining channel: elevatorio
+20.10.2021 18:07:56:    Received: :tmi.twitch.tv 001 elevatorro :Welcome, GLHF!
+20.10.2021 18:07:56:    Received: :tmi.twitch.tv 002 elevatorro :Your host is tmi.twitch.tv
+20.10.2021 18:07:56:    Received: :tmi.twitch.tv 003 elevatorro :This server is rather new
+20.10.2021 18:07:56:    Received: :tmi.twitch.tv 004 elevatorro :-
+20.10.2021 18:07:56:    Received: :tmi.twitch.tv 375 elevatorro :-
+20.10.2021 18:07:56:    Received: :tmi.twitch.tv 372 elevatorro :You are in a maze of twisty passages, all alike.
+20.10.2021 18:07:56:    Received: :tmi.twitch.tv 376 elevatorro :>
+20.10.2021 18:07:56:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+20.10.2021 18:07:56:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership (please create a TwitchLib GitHub issue :P)
+20.10.2021 18:07:56:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+20.10.2021 18:07:56:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands (please create a TwitchLib GitHub issue :P)
+20.10.2021 18:07:56:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+20.10.2021 18:07:56:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags (please create a TwitchLib GitHub issue :P)
+20.10.2021 18:07:56:    Received: :elevatorro!elevatorro@elevatorro.tmi.twitch.tv JOIN #elevatorio
+20.10.2021 18:07:56:    Received: :elevatorro.tmi.twitch.tv 353 elevatorro = #elevatorio :elevatorro
+20.10.2021 18:07:56:    Received: :elevatorro.tmi.twitch.tv 366 elevatorro #elevatorio :End of /NAMES list
+20.10.2021 18:07:56:    Finished channel joining queue.
+20.10.2021 18:07:56:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:07:56:    Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=493920013;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #elevatorio
+20.10.2021 18:07:56:    Finished channel joining queue.
+20.10.2021 18:07:56:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:07:58:    Received: :elevatorio!elevatorio@elevatorio.tmi.twitch.tv JOIN #elevatorio
+20.10.2021 18:08:15:    Received: @badge-info=;badges=broadcaster/1;client-nonce=0304c25576221c5219431a2b470c4e54;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=16895fba-7895-4033-ae2e-7b0c453fbcab;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634742495987;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!start_raffle всем привет
+20.10.2021 18:08:15:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:08:20:    Received: @badge-info=;badges=broadcaster/1;client-nonce=ef8b55c031ae8d7f85280b690bb32101;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=2e5aa395-d23c-4225-906b-267faa5fb10e;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634742501433;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :всем привет
+20.10.2021 18:08:26:    Received: @badge-info=;badges=moderator/1;client-nonce=307388e9c8b5418c620642bc3f5cfc50;color=;display-name=elevatorro;emotes=;first-msg=0;flags=;id=27878fbf-8b4b-48d3-9364-77960ae1b965;mod=1;room-id=493920013;subscriber=0;tmi-sent-ts=1634742507241;turbo=0;user-id=454737927;user-type=mod :elevatorro!elevatorro@elevatorro.tmi.twitch.tv PRIVMSG #elevatorio :всем привет
+20.10.2021 18:08:43:    Received: @badge-info=;badges=broadcaster/1;client-nonce=d3e6bdae786dbe3664f7d48a9ef5c5a0;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=a2b89c29-323e-4a73-b27d-387a6eeed890;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634742524282;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:08:43:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:12:05:    Received: PING :tmi.twitch.tv
+20.10.2021 18:12:05:    Writing: PONG
+20.10.2021 18:28:41:    Connecting to: wss://irc-ws.chat.twitch.tv:443
+20.10.2021 18:28:45:    Should be connected!
+20.10.2021 18:28:46:    Joining channel: grr127127
+20.10.2021 18:28:46:    Received: :tmi.twitch.tv 001 elevatorro :Welcome, GLHF!
+20.10.2021 18:28:46:    Received: :tmi.twitch.tv 002 elevatorro :Your host is tmi.twitch.tv
+20.10.2021 18:28:46:    Received: :tmi.twitch.tv 003 elevatorro :This server is rather new
+20.10.2021 18:28:46:    Received: :tmi.twitch.tv 004 elevatorro :-
+20.10.2021 18:28:46:    Received: :tmi.twitch.tv 375 elevatorro :-
+20.10.2021 18:28:46:    Received: :tmi.twitch.tv 372 elevatorro :You are in a maze of twisty passages, all alike.
+20.10.2021 18:28:46:    Received: :tmi.twitch.tv 376 elevatorro :>
+20.10.2021 18:28:46:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+20.10.2021 18:28:46:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership (please create a TwitchLib GitHub issue :P)
+20.10.2021 18:28:46:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+20.10.2021 18:28:46:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands (please create a TwitchLib GitHub issue :P)
+20.10.2021 18:28:46:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+20.10.2021 18:28:46:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags (please create a TwitchLib GitHub issue :P)
+20.10.2021 18:28:46:    Received: :elevatorro!elevatorro@elevatorro.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:28:46:    Received: @badge-info=;badges=;color=;display-name=elevatorro;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #grr127127
+20.10.2021 18:28:46:    Received: @emote-only=0;followers-only=0;r9k=0;rituals=0;room-id=486098793;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #grr127127
+20.10.2021 18:28:47:    Received: :elevatorro.tmi.twitch.tv 353 elevatorro = #grr127127 :aten candyest lynch088 ttr8484 veska1989 nightbot reko6et rudichevbossich suvarov33 vladmir48 xijaro777 dumah52 efimovi43 qybiq bob2007151 freshk1n0 inspiteoff kirillkanitovv aarrraa slavaxlive wazdan zeedorf16 comettunes reznik4444 sanekhorror serazov vbnnf accidental_river gambler17171 sergey_kirov slamby3 e_h_0_tb hellolife2020 loveeee21 symons199 zenonpoker flintt41 slava_neby alfi199024 dancerrzn kripptto qintaro98
+20.10.2021 18:28:47:    Finished channel joining queue.
+20.10.2021 18:28:48:    Received: :elevatorro.tmi.twitch.tv 353 elevatorro = #grr127127 :4e_tam hellfire313131 nutserok sparch08 trai1000 sikvargen viyacheslavu dannypitt777 dima147zz firernih ilaria_ua moobot seemao virgoproz ltp2131 sergeykopi7 ultrastw vadim1237777 vln82 bumbomen herruwim papakarlo73 shinoginter14 bartun43 pajeros68 serjocean69 ska3a4neg stacionar vaodao no_logyc artembillisin commanderroot ehaminguay elevatorio i_love_u_tv maker888 ermil19 itendu kenu19 nikelson44 z0han_ua alexklimov1
+20.10.2021 18:28:48:    Received: :elevatorro.tmi.twitch.tv 353 elevatorro = #grr127127 :axelwilius18 cloudluck99 kasper447 olga19834 singlewarrior streamelements toriodor bambuk2020 bart1980 logan06888 midontik8 nachtwicha spiketrapclair vasiliy2377 crazyhouse03 grr127127 kolbaskins stmaestro 044playa dalbertsonn gowithhim pokemonmanager forfunes lev1845 vinsitoy costabille11 gozzitan lacyluxxx leo73rus manimeyker propokerone centukral itcjunior mikebradly4 raxon129 vladtlt28 zlir aris136 by_shvets jiyiiika
+20.10.2021 18:28:48:    Received: :elevatorro.tmi.twitch.tv 353 elevatorro = #grr127127 :lenorenti lexusawd rose5516 okralis piglet106 dracula587 moyhozyaun nikollos77 vint0011 yitzhakrabin3 tamagochi1990 tsutsvang arivelover baffik95 derbynov15 hades_osiris nikti36 pashafizik schoni2 sokolgradec bullstaker konstant1961l lampytskyi q4er64 romunio tizcloud
+20.10.2021 18:28:48:    Received: :elevatorro.tmi.twitch.tv 353 elevatorro = #grr127127 :elevatorro
+20.10.2021 18:28:48:    Received: :elevatorro.tmi.twitch.tv 366 elevatorro #grr127127 :End of /NAMES list
+20.10.2021 18:28:48:    Finished channel joining queue.
+20.10.2021 18:29:09:    Received: @badge-info=founder/5;badges=moderator/1,founder/0;client-nonce=422d187b2924dbe417a92388d7ef94d5;color=;display-name=JIyIIIKa;emotes=;first-msg=0;flags=;id=7819aa34-bf46-48be-ad9d-0cb601b70334;mod=1;room-id=486098793;subscriber=0;tmi-sent-ts=1634743750439;turbo=0;user-id=561846664;user-type=mod :jiyiiika!jiyiiika@jiyiiika.tmi.twitch.tv PRIVMSG #grr127127 :@pokemonmanager опять?
+20.10.2021 18:29:25:    Received: @badge-info=founder/5;badges=moderator/1,founder/0;client-nonce=4ecf8efbeccba5bea1016270b3777c9a;color=;display-name=JIyIIIKa;emotes=;first-msg=0;flags=;id=8f932f71-31cc-4329-9233-4a4ea57c8d14;mod=1;room-id=486098793;subscriber=0;tmi-sent-ts=1634743766214;turbo=0;user-id=561846664;user-type=mod :jiyiiika!jiyiiika@jiyiiika.tmi.twitch.tv PRIVMSG #grr127127 :Обменивать можно 1 билет за час
+20.10.2021 18:29:34:    Received: @badge-info=founder/5;badges=moderator/1,founder/0;client-nonce=be244514f0584f795c5ed9886cd77ddf;color=;display-name=JIyIIIKa;emotes=;first-msg=0;flags=;id=efb01297-da35-4fbe-baa1-ab7f55d695ed;mod=1;room-id=486098793;subscriber=0;tmi-sent-ts=1634743775497;turbo=0;user-id=561846664;user-type=mod :jiyiiika!jiyiiika@jiyiiika.tmi.twitch.tv PRIVMSG #grr127127 :оба билета удаляются
+20.10.2021 18:29:37:    Received: :taicvetov!taicvetov@taicvetov.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:29:37:    Received: :windrummer4!windrummer4@windrummer4.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:29:37:    Received: :amorozov!amorozov@amorozov.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:29:37:    Received: :artur4iknixon4ik77!artur4iknixon4ik77@artur4iknixon4ik77.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:29:37:    Received: :klu4nik13!klu4nik13@klu4nik13.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:29:37:    Received: :jinmoral333!jinmoral333@jinmoral333.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:29:37:    Received: :ehudbarak!ehudbarak@ehudbarak.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:29:37:    Received: :centukral!centukral@centukral.tmi.twitch.tv PART #grr127127
+20.10.2021 18:29:37:    Received: :kirillkanitovv!kirillkanitovv@kirillkanitovv.tmi.twitch.tv PART #grr127127
+20.10.2021 18:29:37:    Received: :symons199!symons199@symons199.tmi.twitch.tv PART #grr127127
+20.10.2021 18:29:37:    Received: :qintaro98!qintaro98@qintaro98.tmi.twitch.tv PART #grr127127
+20.10.2021 18:29:37:    Received: :virgoproz!virgoproz@virgoproz.tmi.twitch.tv PART #grr127127
+20.10.2021 18:29:37:    Received: :sergeykopi7!sergeykopi7@sergeykopi7.tmi.twitch.tv PART #grr127127
+20.10.2021 18:29:37:    Received: :lacyluxxx!lacyluxxx@lacyluxxx.tmi.twitch.tv PART #grr127127
+20.10.2021 18:29:37:    Received: :dima147zz!dima147zz@dima147zz.tmi.twitch.tv PART #grr127127
+20.10.2021 18:29:37:    Received: :firernih!firernih@firernih.tmi.twitch.tv PART #grr127127
+20.10.2021 18:29:37:    Received: :bartun43!bartun43@bartun43.tmi.twitch.tv PART #grr127127
+20.10.2021 18:29:37:    Received: :nikelson44!nikelson44@nikelson44.tmi.twitch.tv PART #grr127127
+20.10.2021 18:29:37:    Received: :gowithhim!gowithhim@gowithhim.tmi.twitch.tv PART #grr127127
+20.10.2021 18:30:40:    Received: :kirillkanitovv!kirillkanitovv@kirillkanitovv.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:30:40:    Received: :lacyluxxx!lacyluxxx@lacyluxxx.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:30:40:    Received: :firernih!firernih@firernih.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:30:40:    Received: :sergeykopi7!sergeykopi7@sergeykopi7.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:30:40:    Received: :qintaro98!qintaro98@qintaro98.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:30:40:    Received: :cryptozera!cryptozera@cryptozera.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:30:40:    Received: :dima147zz!dima147zz@dima147zz.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:30:40:    Received: :virgoproz!virgoproz@virgoproz.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:30:40:    Received: :gowithhim!gowithhim@gowithhim.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:30:40:    Received: :symons199!symons199@symons199.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:30:40:    Received: :nikelson44!nikelson44@nikelson44.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:30:40:    Received: :bartun43!bartun43@bartun43.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:30:40:    Received: :centukral!centukral@centukral.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:30:40:    Received: :spiketrapclair!spiketrapclair@spiketrapclair.tmi.twitch.tv PART #grr127127
+20.10.2021 18:30:40:    Received: :tizcloud!tizcloud@tizcloud.tmi.twitch.tv PART #grr127127
+20.10.2021 18:30:40:    Received: :costabille11!costabille11@costabille11.tmi.twitch.tv PART #grr127127
+20.10.2021 18:30:40:    Received: :kripptto!kripptto@kripptto.tmi.twitch.tv PART #grr127127
+20.10.2021 18:30:40:    Received: :bullstaker!bullstaker@bullstaker.tmi.twitch.tv PART #grr127127
+20.10.2021 18:30:40:    Received: :suvarov33!suvarov33@suvarov33.tmi.twitch.tv PART #grr127127
+20.10.2021 18:31:44:    Received: :amortal8!amortal8@amortal8.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:31:44:    Received: :bullstaker!bullstaker@bullstaker.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:31:44:    Received: :tizcloud!tizcloud@tizcloud.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:31:44:    Received: :ronad7!ronad7@ronad7.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:31:44:    Received: :suvarov33!suvarov33@suvarov33.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:31:44:    Received: :costabille11!costabille11@costabille11.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:31:44:    Received: :spiketrapclair!spiketrapclair@spiketrapclair.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:31:44:    Received: :luckydreamertv!luckydreamertv@luckydreamertv.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:31:44:    Received: :pajeros68!pajeros68@pajeros68.tmi.twitch.tv PART #grr127127
+20.10.2021 18:31:44:    Received: :vaodao!vaodao@vaodao.tmi.twitch.tv PART #grr127127
+20.10.2021 18:31:44:    Received: :mikebradly4!mikebradly4@mikebradly4.tmi.twitch.tv PART #grr127127
+20.10.2021 18:31:44:    Received: :seemao!seemao@seemao.tmi.twitch.tv PART #grr127127
+20.10.2021 18:31:44:    Received: :cryptozera!cryptozera@cryptozera.tmi.twitch.tv PART #grr127127
+20.10.2021 18:31:44:    Received: :kenu19!kenu19@kenu19.tmi.twitch.tv PART #grr127127
+20.10.2021 18:32:53:    Received: :cezarek00!cezarek00@cezarek00.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:32:53:    Received: :vaodao!vaodao@vaodao.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:32:53:    Received: :mikebradly4!mikebradly4@mikebradly4.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:32:53:    Received: :seemao!seemao@seemao.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:32:53:    Received: :kenu19!kenu19@kenu19.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:32:53:    Received: :pajeros68!pajeros68@pajeros68.tmi.twitch.tv JOIN #grr127127
+20.10.2021 18:32:53:    Received: :amortal8!amortal8@amortal8.tmi.twitch.tv PART #grr127127
+20.10.2021 18:32:53:    Received: :logan06888!logan06888@logan06888.tmi.twitch.tv PART #grr127127
+20.10.2021 18:32:53:    Received: :luckydreamertv!luckydreamertv@luckydreamertv.tmi.twitch.tv PART #grr127127
+20.10.2021 18:33:26:    Received: @badge-info=;badges=;client-nonce=5dd7499b807ed1d705b428ccc27b93e4;color=;display-name=pokemonmanager;emotes=;first-msg=0;flags=;id=9fba41b5-8c57-4f9c-b978-337dac03dec2;mod=0;reply-parent-display-name=JIyIIIKa;reply-parent-msg-body=@pokemonmanager\sопять?;reply-parent-msg-id=7819aa34-bf46-48be-ad9d-0cb601b70334;reply-parent-user-id=561846664;reply-parent-user-login=jiyiiika;room-id=486098793;subscriber=0;tmi-sent-ts=1634744007875;turbo=0;user-id=215253064;user-type= :pokemonmanager!pokemonmanager@pokemonmanager.tmi.twitch.tv PRIVMSG #grr127127 :@JIyIIIKa сорри
+20.10.2021 18:33:33:    Received: PING :tmi.twitch.tv
+20.10.2021 18:33:33:    Writing: PONG
+20.10.2021 18:33:37:    Received: @badge-info=;badges=vip/1;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=ac44afa0-891b-4c8c-9545-2eb2a044ca58;mod=0;room-id=486098793;subscriber=0;tmi-sent-ts=1634744018828;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #grr127127 :!кубик
+20.10.2021 18:33:38:    Received: @badge-info=;badges=;color=;display-name=elevatorro;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #grr127127
+20.10.2021 18:39:15:    Connecting to: wss://irc-ws.chat.twitch.tv:443
+20.10.2021 18:39:18:    Should be connected!
+20.10.2021 18:39:18:    Joining channel: elevatorio
+20.10.2021 18:39:18:    Received: :tmi.twitch.tv 001 elevatorro :Welcome, GLHF!
+20.10.2021 18:39:18:    Received: :tmi.twitch.tv 002 elevatorro :Your host is tmi.twitch.tv
+20.10.2021 18:39:18:    Received: :tmi.twitch.tv 003 elevatorro :This server is rather new
+20.10.2021 18:39:18:    Received: :tmi.twitch.tv 004 elevatorro :-
+20.10.2021 18:39:18:    Received: :tmi.twitch.tv 375 elevatorro :-
+20.10.2021 18:39:18:    Received: :tmi.twitch.tv 372 elevatorro :You are in a maze of twisty passages, all alike.
+20.10.2021 18:39:18:    Received: :tmi.twitch.tv 376 elevatorro :>
+20.10.2021 18:39:18:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+20.10.2021 18:39:18:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership (please create a TwitchLib GitHub issue :P)
+20.10.2021 18:39:18:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+20.10.2021 18:39:18:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands (please create a TwitchLib GitHub issue :P)
+20.10.2021 18:39:18:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+20.10.2021 18:39:18:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags (please create a TwitchLib GitHub issue :P)
+20.10.2021 18:39:18:    Received: :elevatorro!elevatorro@elevatorro.tmi.twitch.tv JOIN #elevatorio
+20.10.2021 18:39:18:    Received: :elevatorro.tmi.twitch.tv 353 elevatorro = #elevatorio :elevatorro
+20.10.2021 18:39:18:    Received: :elevatorro.tmi.twitch.tv 366 elevatorro #elevatorio :End of /NAMES list
+20.10.2021 18:39:18:    Finished channel joining queue.
+20.10.2021 18:39:18:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:39:18:    Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=493920013;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #elevatorio
+20.10.2021 18:39:19:    Finished channel joining queue.
+20.10.2021 18:39:27:    Received: :elevatorio!elevatorio@elevatorio.tmi.twitch.tv JOIN #elevatorio
+20.10.2021 18:39:32:    Received: @badge-info=;badges=broadcaster/1;client-nonce=54bae29385f9d22b93c9442ae12fd688;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=5fd966e3-ffb2-406b-ab24-af2ecea207a1;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634744373420;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!кубик
+20.10.2021 18:39:32:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:39:35:    Received: @badge-info=;badges=broadcaster/1;client-nonce=38365b2a369c453770dede6639a1c0a1;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=fe3cfa54-ffd7-4577-a30d-0f07d78b6404;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634744376937;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!кубик
+20.10.2021 18:39:36:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:39:38:    Received: @badge-info=;badges=broadcaster/1;client-nonce=129c6893da2b67ec00a23a9f4ad1ba43;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=3393da77-0bac-4bb0-a6be-64ae1a1b0d7f;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634744379257;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!кубик
+20.10.2021 18:39:38:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:39:40:    Received: @badge-info=;badges=broadcaster/1;client-nonce=422cf94de41f5ba0c744a2ca8036b1d9;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=f5d167aa-e9b5-4a6c-b348-25524c15d067;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634744381172;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!кубик
+20.10.2021 18:39:40:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:39:42:    Received: @badge-info=;badges=broadcaster/1;client-nonce=f7cd678118467ceee6f602d79299febf;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=83d4bb5d-7460-4468-9599-d7f222695bc5;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634744383893;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!кубик
+20.10.2021 18:39:43:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:39:45:    Received: @badge-info=;badges=broadcaster/1;client-nonce=8ccbe7bbec449305ba793decabe32fde;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=10dc709e-c512-4a83-b17f-dc93722dc2de;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634744386081;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!кубик
+20.10.2021 18:39:45:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:39:47:    Received: @badge-info=;badges=broadcaster/1;client-nonce=222d94be3470b22258672813545541cf;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=e2842b91-317b-4674-bd9e-5b1a678b1873;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634744388141;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!кубик
+20.10.2021 18:39:47:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:39:48:    Received: @badge-info=;badges=broadcaster/1;client-nonce=c3b9096689caa4becfaf1ef26dd4b4e0;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=44aa12b6-d2e7-4e63-8648-cf240ba1b157;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634744390017;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!кубик
+20.10.2021 18:39:49:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:39:50:    Received: @badge-info=;badges=broadcaster/1;client-nonce=64f6bce2827d4baaee5dbd6b475ee0d9;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=d836a74b-b5de-4bcc-9f00-7d4290745d63;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634744391955;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!кубик
+20.10.2021 18:39:51:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:39:52:    Received: @badge-info=;badges=broadcaster/1;client-nonce=80411d9f9c29e69f66d4d6b3b02afc52;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=15d5c6e2-3675-40f5-9e59-fa3ac94aac26;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634744393565;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!кубик
+20.10.2021 18:39:52:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:39:54:    Received: @badge-info=;badges=broadcaster/1;client-nonce=71852d3b4047339d3d36a06da0589fc6;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=c087619f-a51b-4c1e-9335-b3862cd1650c;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634744395756;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!кубик
+20.10.2021 18:39:55:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:39:56:    Received: @badge-info=;badges=broadcaster/1;client-nonce=8801d57ec5de0d3cd05765234cc08d80;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=4b8f4f71-3705-45ed-9214-f68dc5011d06;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634744397360;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!кубик
+20.10.2021 18:39:56:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:39:58:    Received: @badge-info=;badges=broadcaster/1;client-nonce=b76cca519c3d3c80366ed8b83237282c;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=ef57f204-6932-4b68-8402-a7a02bc2f8df;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634744399092;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!кубик
+20.10.2021 18:39:58:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:43:31:    Received: PING :tmi.twitch.tv
+20.10.2021 18:43:31:    Writing: PONG
+20.10.2021 18:48:19:    Received: PING :tmi.twitch.tv
+20.10.2021 18:48:19:    Writing: PONG
+20.10.2021 18:52:34:    Received: PING :tmi.twitch.tv
+20.10.2021 18:52:34:    Writing: PONG
+20.10.2021 18:54:35:    Connecting to: wss://irc-ws.chat.twitch.tv:443
+20.10.2021 18:54:39:    Should be connected!
+20.10.2021 18:54:39:    Joining channel: elevatorio
+20.10.2021 18:54:39:    Received: :tmi.twitch.tv 001 elevatorro :Welcome, GLHF!
+20.10.2021 18:54:39:    Received: :tmi.twitch.tv 002 elevatorro :Your host is tmi.twitch.tv
+20.10.2021 18:54:39:    Received: :tmi.twitch.tv 003 elevatorro :This server is rather new
+20.10.2021 18:54:39:    Received: :tmi.twitch.tv 004 elevatorro :-
+20.10.2021 18:54:39:    Received: :tmi.twitch.tv 375 elevatorro :-
+20.10.2021 18:54:39:    Received: :tmi.twitch.tv 372 elevatorro :You are in a maze of twisty passages, all alike.
+20.10.2021 18:54:39:    Received: :tmi.twitch.tv 376 elevatorro :>
+20.10.2021 18:54:39:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+20.10.2021 18:54:39:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership (please create a TwitchLib GitHub issue :P)
+20.10.2021 18:54:39:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+20.10.2021 18:54:39:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands (please create a TwitchLib GitHub issue :P)
+20.10.2021 18:54:39:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+20.10.2021 18:54:39:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags (please create a TwitchLib GitHub issue :P)
+20.10.2021 18:54:39:    Received: :elevatorro!elevatorro@elevatorro.tmi.twitch.tv JOIN #elevatorio
+20.10.2021 18:54:39:    Received: :elevatorro.tmi.twitch.tv 353 elevatorro = #elevatorio :elevatorro
+20.10.2021 18:54:39:    Received: :elevatorro.tmi.twitch.tv 366 elevatorro #elevatorio :End of /NAMES list
+20.10.2021 18:54:39:    Finished channel joining queue.
+20.10.2021 18:54:39:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:54:39:    Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=493920013;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #elevatorio
+20.10.2021 18:54:40:    Finished channel joining queue.
+20.10.2021 18:54:56:    Received: @badge-info=;badges=broadcaster/1;client-nonce=7c067328ee55f68c01264a7248fe717b;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=423f1c48-7754-479f-8882-edd951357803;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745297176;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!start_raffle привет привет привет
+20.10.2021 18:54:56:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:55:01:    Received: @badge-info=;badges=broadcaster/1;client-nonce=72bd217b96663a6b0c357601a963918e;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=379b3748-6547-4697-856a-a468c1c36707;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745303030;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :привет привет привет
+20.10.2021 18:55:12:    Received: @badge-info=;badges=moderator/1;client-nonce=22abbd392b66b3b8a3aeca364c6cd0fb;color=;display-name=elevatorro;emotes=;first-msg=0;flags=;id=e43934b8-dbce-4176-8db0-cff733002d5c;mod=1;room-id=493920013;subscriber=0;tmi-sent-ts=1634745313782;turbo=0;user-id=454737927;user-type=mod :elevatorro!elevatorro@elevatorro.tmi.twitch.tv PRIVMSG #elevatorio :привет привет привет
+20.10.2021 18:55:17:    Received: :elevatorio!elevatorio@elevatorio.tmi.twitch.tv JOIN #elevatorio
+20.10.2021 18:55:19:    Received: @badge-info=;badges=broadcaster/1;client-nonce=e1a58ab6972a33c2a01ceb1c07c99d21;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=313639ad-41d8-494f-a556-74d8e1532368;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745320067;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:55:19:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:55:22:    Received: @badge-info=;badges=broadcaster/1;client-nonce=bb340183ab38b6069529a819ee00fe75;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=433b0b6b-b80a-46da-b2e5-89bb094f06af;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745323910;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:55:23:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:55:26:    Received: @badge-info=;badges=broadcaster/1;client-nonce=ded8129e81d99011c4f62ed6201d8049;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=faf52e18-a724-48e2-ade4-6c746105f06e;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745327507;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:55:26:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:55:35:    Received: @badge-info=;badges=broadcaster/1;client-nonce=94297df7c1a17e2c75c5fda5bcd66d6d;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=8a429bc8-b69f-46b2-858f-73075e3b75b4;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745336248;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:55:35:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:55:42:    Received: @badge-info=;badges=broadcaster/1;client-nonce=7145e51ca2f59e031ceb23e24b1a1da9;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=ee0f620b-a4ea-446a-b54a-b084d3bbe1f8;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745343815;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:55:43:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:55:46:    Received: @badge-info=;badges=broadcaster/1;client-nonce=cf44a93cdbc66880218dd759009cafc8;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=5efbf480-8a6f-498c-bd74-35cd37534dbb;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745347676;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:55:46:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:55:50:    Received: @badge-info=;badges=broadcaster/1;client-nonce=d5ee499ceb8a3c27253508f3749e47cd;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=2ea40879-1bac-4b3f-8cdd-f0db0cd78436;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745351373;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:55:50:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:55:57:    Received: @badge-info=;badges=broadcaster/1;client-nonce=a76ac8e2d5669621a0de0d1550feeac9;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=501bb3e5-0a4b-4884-91e1-25afca7263bb;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745358350;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:55:57:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:56:12:    Received: @badge-info=;badges=moderator/1;client-nonce=267c82d1e74a9feaa9aa31ce4528e48f;color=;display-name=elevatorro;emotes=;first-msg=0;flags=;id=8699afea-f4b7-4a67-816b-47d2e0d02b3a;mod=1;room-id=493920013;subscriber=0;tmi-sent-ts=1634745373550;turbo=0;user-id=454737927;user-type=mod :elevatorro!elevatorro@elevatorro.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:56:12:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:56:22:    Received: @badge-info=;badges=broadcaster/1;client-nonce=5099d9c209f9005f0bd4271eb0326e30;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=bafe1840-0866-4d79-a4b2-a9163147da76;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745383527;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:56:22:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:56:23:    Received: @badge-info=;badges=broadcaster/1;client-nonce=1ea3f2828042ccfd98702ac43c9dd172;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=acb52da2-59e1-4af4-98f7-7cd38dab4f8c;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745384918;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:56:24:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:56:25:    Received: @badge-info=;badges=broadcaster/1;client-nonce=27e9d32a88b235a129a651fada25d625;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=ad382496-81bc-4159-9074-c1aa1d01d0e7;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745386099;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:56:25:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:56:26:    Received: @badge-info=;badges=broadcaster/1;client-nonce=8e4e75afa1d299a397f5815861e15074;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=cc4b8ebb-d629-49bb-9caa-6e9addee7e0d;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745387229;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:56:26:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:56:27:    Received: @badge-info=;badges=broadcaster/1;client-nonce=401e4cff06f4e3752fd1a64ec8fd9bee;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=c18d600d-4f83-4a49-b09f-939bafdb6f33;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745388476;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:56:27:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:56:28:    Received: @badge-info=;badges=broadcaster/1;client-nonce=0673a5fb10e721dbb2ec366dbf60a226;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=65547693-75a9-4468-b0db-7829365a5191;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745389480;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:56:28:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:56:29:    Received: @badge-info=;badges=broadcaster/1;client-nonce=d48486cd66baecf608fa95053f6ea7cf;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=ac5697b9-3f18-4f40-94e5-b840a4d1b3c9;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745390511;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:56:29:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:56:30:    Received: @badge-info=;badges=broadcaster/1;client-nonce=1ff9fd430c89fc1c0ac2ca043c3b46c3;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=07852009-2097-49ea-9027-f01f5e5097a7;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745391545;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:56:31:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:56:31:    Received: @badge-info=;badges=broadcaster/1;client-nonce=680054b9276543310fb5f51bd3c386a5;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=5935f2e7-e9f2-40e4-ab6d-0c4d7bb0d8d3;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745392546;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:56:31:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:56:33:    Received: @badge-info=;badges=broadcaster/1;client-nonce=8eff03feb02df1d69fd5bd1d9d512de2;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=b9b5b2a6-2fc8-4e17-b9d0-4021a8c36eeb;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745394318;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:56:33:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:56:34:    Received: @badge-info=;badges=broadcaster/1;client-nonce=0c30622d3e4a396fe4ca133b23d4620e;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=9dee347b-625f-47e1-a75f-57c508267760;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745395604;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:56:35:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:56:36:    Received: @badge-info=;badges=broadcaster/1;client-nonce=b06be6d3376985cb714b89e961ebfb54;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=a4d600ec-210a-4ff9-9820-6a9315e61a4f;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745397185;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:56:36:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:56:37:    Received: @badge-info=;badges=broadcaster/1;client-nonce=6d95ec6d8ca827b835fc5144e6f03c9f;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=b4b21a94-4ce6-4faf-8dc4-837968bb9bb1;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745398573;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:56:37:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:56:38:    Received: @badge-info=;badges=broadcaster/1;client-nonce=0340f41b46766d7d644d07be5dc7093a;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=aa506208-4405-404d-9e77-637d68ae1682;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745399881;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:56:39:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:56:40:    Received: @badge-info=;badges=broadcaster/1;client-nonce=607b4eaa2b5beac06327d7eafbd21340;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=c448bf13-7b03-41f9-8847-5b25ae58e41d;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745401118;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:56:40:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:58:03:    Connecting to: wss://irc-ws.chat.twitch.tv:443
+20.10.2021 18:58:05:    Should be connected!
+20.10.2021 18:58:05:    Joining channel: elevatorio
+20.10.2021 18:58:06:    Received: :tmi.twitch.tv 001 elevatorro :Welcome, GLHF!
+20.10.2021 18:58:06:    Received: :tmi.twitch.tv 002 elevatorro :Your host is tmi.twitch.tv
+20.10.2021 18:58:06:    Received: :tmi.twitch.tv 003 elevatorro :This server is rather new
+20.10.2021 18:58:06:    Received: :tmi.twitch.tv 004 elevatorro :-
+20.10.2021 18:58:06:    Received: :tmi.twitch.tv 375 elevatorro :-
+20.10.2021 18:58:06:    Received: :tmi.twitch.tv 372 elevatorro :You are in a maze of twisty passages, all alike.
+20.10.2021 18:58:06:    Received: :tmi.twitch.tv 376 elevatorro :>
+20.10.2021 18:58:06:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+20.10.2021 18:58:06:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership (please create a TwitchLib GitHub issue :P)
+20.10.2021 18:58:06:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+20.10.2021 18:58:06:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands (please create a TwitchLib GitHub issue :P)
+20.10.2021 18:58:06:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+20.10.2021 18:58:06:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags (please create a TwitchLib GitHub issue :P)
+20.10.2021 18:58:06:    Received: :elevatorro!elevatorro@elevatorro.tmi.twitch.tv JOIN #elevatorio
+20.10.2021 18:58:06:    Received: :elevatorro.tmi.twitch.tv 353 elevatorro = #elevatorio :elevatorro
+20.10.2021 18:58:06:    Received: :elevatorro.tmi.twitch.tv 366 elevatorro #elevatorio :End of /NAMES list
+20.10.2021 18:58:06:    Finished channel joining queue.
+20.10.2021 18:58:06:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:58:06:    Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=493920013;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #elevatorio
+20.10.2021 18:58:06:    Finished channel joining queue.
+20.10.2021 18:58:45:    Received: :elevatorio!elevatorio@elevatorio.tmi.twitch.tv JOIN #elevatorio
+20.10.2021 18:59:05:    Received: @badge-info=;badges=broadcaster/1;client-nonce=dd8bf2592959cbe129f314553c62427c;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=e2a0a352-90ec-43ac-9bdc-90247ded865c;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745546400;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!start_raffle asd
+20.10.2021 18:59:05:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:59:07:    Received: @badge-info=;badges=broadcaster/1;client-nonce=22b2364c5ea6f9c3b2a3e4e28f75085b;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=75e6034e-ec5f-45f3-961a-a0df22c9c801;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745548407;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :asd
+20.10.2021 18:59:10:    Received: @badge-info=;badges=moderator/1;client-nonce=fe71871e6ea54d9b9fc1124a6bf8ca48;color=;display-name=elevatorro;emotes=;first-msg=0;flags=;id=92921a06-ddf5-4091-8508-3a5274d477bf;mod=1;room-id=493920013;subscriber=0;tmi-sent-ts=1634745551661;turbo=0;user-id=454737927;user-type=mod :elevatorro!elevatorro@elevatorro.tmi.twitch.tv PRIVMSG #elevatorio :asd
+20.10.2021 18:59:13:    Received: @badge-info=;badges=broadcaster/1;client-nonce=5334ff80b568b5b494abff1c17d985f6;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=b6a37363-7c20-45c4-8862-c07195db5072;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745555024;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:59:14:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:59:15:    Received: @badge-info=;badges=broadcaster/1;client-nonce=7d3e4e1824dcd2846bb13a09afb11f4f;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=d6cbef9b-e607-4929-aeaa-1695e9e5408d;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745556862;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:59:16:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:59:16:    Received: @badge-info=;badges=broadcaster/1;client-nonce=bba7786c1c858d9d38e19f021a24e027;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=cdda1841-e1de-4bf5-a8e7-30e4f63c5c8d;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745558078;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:59:17:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:59:17:    Received: @badge-info=;badges=broadcaster/1;client-nonce=94c3fa9ab5126168e58e7617a643a233;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=1a16b85f-4e53-4a8b-abf4-4cc63af9f040;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745558946;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:59:18:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:59:19:    Received: @badge-info=;badges=broadcaster/1;client-nonce=1e90297291f13f829f0ef710bb3a0ba6;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=62e07a7e-1e18-478d-9f4f-9db1733c9709;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745560226;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:59:19:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:59:20:    Received: @badge-info=;badges=broadcaster/1;client-nonce=9876e899eab2300fe0d4f14a56705dbb;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=c1fcdf75-1331-41e9-bdea-88e451814c07;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745561335;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:59:20:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:59:21:    Received: @badge-info=;badges=broadcaster/1;client-nonce=394c69dbfeba237063e4647458be0b09;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=263b36b0-4f84-48a0-9175-9b293ae956a2;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745562760;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:59:21:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:59:23:    Received: @badge-info=;badges=broadcaster/1;client-nonce=a6a43adb7664303a5bbf9447c8c462d5;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=a91bfd31-2ca4-4ebe-8d69-767dcd14b535;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745564258;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:59:23:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:59:24:    Received: @badge-info=;badges=broadcaster/1;client-nonce=2519399c69019d1c412e21165b5b142b;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=04a64283-e676-49b3-b6bb-073553cac38c;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745565286;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:59:24:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:59:25:    Received: @badge-info=;badges=broadcaster/1;client-nonce=651569b4cc18083732053e06fd06b5c0;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=26091d10-7823-4097-b062-64eb854c9a1b;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745566551;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:59:25:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:59:26:    Received: @badge-info=;badges=broadcaster/1;client-nonce=30ba83ab0e5b3146aaf1629397a35caa;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=1d37af62-5c47-4e10-b487-1668c0b9e17e;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745567580;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:59:26:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:59:27:    Received: @badge-info=;badges=broadcaster/1;client-nonce=5ec1f298c719854c098d2e23b7bfb2f0;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=addb2a9c-ec61-4510-a263-d0ef763670bf;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745568891;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:59:28:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:59:28:    Received: @badge-info=;badges=broadcaster/1;client-nonce=308db173da413e0e8871440a9b2782f4;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=4b0da349-ab8a-42c1-ad04-d92162fb86e6;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745570071;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:59:29:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:59:30:    Received: @badge-info=;badges=broadcaster/1;client-nonce=8687f00bfbb9373447450672b48b7077;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=9272946d-c404-418a-bdd9-6abbcbd7a6f0;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745571297;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:59:30:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 18:59:31:    Received: @badge-info=;badges=broadcaster/1;client-nonce=d94934d2328abcaeba95afcc697afcb0;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=03942213-5a66-4a5b-8a28-ecfbad1daf2c;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745572870;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 18:59:32:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 19:00:14:    Connecting to: wss://irc-ws.chat.twitch.tv:443
+20.10.2021 19:00:16:    Should be connected!
+20.10.2021 19:00:16:    Joining channel: elevatorio
+20.10.2021 19:00:16:    Received: :tmi.twitch.tv 001 elevatorro :Welcome, GLHF!
+20.10.2021 19:00:16:    Received: :tmi.twitch.tv 002 elevatorro :Your host is tmi.twitch.tv
+20.10.2021 19:00:16:    Received: :tmi.twitch.tv 003 elevatorro :This server is rather new
+20.10.2021 19:00:17:    Received: :tmi.twitch.tv 004 elevatorro :-
+20.10.2021 19:00:17:    Received: :tmi.twitch.tv 375 elevatorro :-
+20.10.2021 19:00:17:    Received: :tmi.twitch.tv 372 elevatorro :You are in a maze of twisty passages, all alike.
+20.10.2021 19:00:17:    Received: :tmi.twitch.tv 376 elevatorro :>
+20.10.2021 19:00:17:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+20.10.2021 19:00:17:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership (please create a TwitchLib GitHub issue :P)
+20.10.2021 19:00:17:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+20.10.2021 19:00:17:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands (please create a TwitchLib GitHub issue :P)
+20.10.2021 19:00:17:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+20.10.2021 19:00:17:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags (please create a TwitchLib GitHub issue :P)
+20.10.2021 19:00:17:    Received: :elevatorro!elevatorro@elevatorro.tmi.twitch.tv JOIN #elevatorio
+20.10.2021 19:00:17:    Received: :elevatorro.tmi.twitch.tv 353 elevatorro = #elevatorio :elevatorro
+20.10.2021 19:00:17:    Received: :elevatorro.tmi.twitch.tv 366 elevatorro #elevatorio :End of /NAMES list
+20.10.2021 19:00:17:    Finished channel joining queue.
+20.10.2021 19:00:17:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 19:00:17:    Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=493920013;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #elevatorio
+20.10.2021 19:00:17:    Finished channel joining queue.
+20.10.2021 19:01:06:    Received: :elevatorio!elevatorio@elevatorio.tmi.twitch.tv JOIN #elevatorio
+20.10.2021 19:01:09:    Received: @badge-info=;badges=broadcaster/1;client-nonce=918f6fdc082f72afd08c74a01862c2ca;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=b8cfb7ef-bb2b-4331-9069-13c78eee07bc;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745670259;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!start_raffle asd
+20.10.2021 19:01:09:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 19:01:11:    Received: @badge-info=;badges=broadcaster/1;client-nonce=2ba85269ffc6609ea12e67e1eec14fe4;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=2761cb6f-24ae-4891-825a-c21c498ebbf3;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745672399;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :asd
+20.10.2021 19:01:14:    Received: @badge-info=;badges=moderator/1;client-nonce=8d9da78579705019af2a781ef135cff1;color=;display-name=elevatorro;emotes=;first-msg=0;flags=;id=6fd9b202-8793-4607-bc9e-f1fb66323166;mod=1;room-id=493920013;subscriber=0;tmi-sent-ts=1634745675568;turbo=0;user-id=454737927;user-type=mod :elevatorro!elevatorro@elevatorro.tmi.twitch.tv PRIVMSG #elevatorio :asd
+20.10.2021 19:01:27:    Received: @badge-info=;badges=broadcaster/1;client-nonce=7133cbe591a69c966092c44de1bba8b6;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=764d60f2-8b89-4145-8daa-3abe62dcde69;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745688311;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 19:01:27:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 19:01:37:    Received: @badge-info=;badges=broadcaster/1;client-nonce=756091d177b8185e8b013423d788bf62;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=df0085cc-bc10-474b-a357-7867799c4be5;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745698268;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 19:01:37:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 19:01:38:    Received: @badge-info=;badges=broadcaster/1;client-nonce=32edbb6beda5003f92fde44b63851e03;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=4b902368-db2e-4e6d-a85b-9a9ab33dc3d4;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745699424;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 19:01:38:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 19:01:39:    Received: @badge-info=;badges=broadcaster/1;client-nonce=b5cb467a647e2ec32ac7303dbdf1f732;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=4eddfa45-a912-4676-9e6f-3dc6e74e5c52;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745700619;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 19:01:39:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 19:01:40:    Received: @badge-info=;badges=broadcaster/1;client-nonce=34a42a5ff88f930e10c5d6cf23402b90;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=a520dac0-ab8d-4883-b632-acd202e7bacf;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745701839;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 19:01:41:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 19:01:41:    Received: @badge-info=;badges=broadcaster/1;client-nonce=ba4ce757a8b753e0185c6ba2fcf78943;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=2cccb62a-18d1-4cf6-aaa2-6af4186b17d0;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745702703;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 19:01:41:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 19:01:42:    Received: @badge-info=;badges=broadcaster/1;client-nonce=9493c255aefc6cec14db035fb15cdc5e;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=427468b0-4cb6-402d-9294-061b7ca4bf26;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745703826;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 19:01:43:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 19:01:43:    Received: @badge-info=;badges=broadcaster/1;client-nonce=7ce427baa054d8bfc2eb4f589bcd053a;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=c17c9521-5923-4b78-b8c7-5e10805a0003;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1634745704912;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!разыграть
+20.10.2021 19:01:44:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+20.10.2021 19:05:15:    Received: PING :tmi.twitch.tv
+20.10.2021 19:05:15:    Writing: PONG
+20.10.2021 19:09:26:    Received: PING :tmi.twitch.tv
+20.10.2021 19:09:26:    Writing: PONG
+25.11.2021 12:28:43:    Connecting to: wss://irc-ws.chat.twitch.tv:443
+25.11.2021 12:28:48:    Should be connected!
+25.11.2021 12:28:48:    Joining channel: elevatorio
+25.11.2021 12:28:48:    Received: :tmi.twitch.tv 001 elevatorro :Welcome, GLHF!
+25.11.2021 12:28:48:    Received: :tmi.twitch.tv 002 elevatorro :Your host is tmi.twitch.tv
+25.11.2021 12:28:48:    Received: :tmi.twitch.tv 003 elevatorro :This server is rather new
+25.11.2021 12:28:48:    Received: :tmi.twitch.tv 004 elevatorro :-
+25.11.2021 12:28:48:    Received: :tmi.twitch.tv 375 elevatorro :-
+25.11.2021 12:28:48:    Received: :tmi.twitch.tv 372 elevatorro :You are in a maze of twisty passages, all alike.
+25.11.2021 12:28:48:    Received: :tmi.twitch.tv 376 elevatorro :>
+25.11.2021 12:28:48:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+25.11.2021 12:28:48:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership (please create a TwitchLib GitHub issue :P)
+25.11.2021 12:28:48:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+25.11.2021 12:28:48:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands (please create a TwitchLib GitHub issue :P)
+25.11.2021 12:28:48:    Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+25.11.2021 12:28:48:    Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags (please create a TwitchLib GitHub issue :P)
+25.11.2021 12:28:48:    Received: :elevatorro!elevatorro@elevatorro.tmi.twitch.tv JOIN #elevatorio
+25.11.2021 12:28:48:    Received: :elevatorro.tmi.twitch.tv 353 elevatorro = #elevatorio :elevatorro
+25.11.2021 12:28:48:    Received: :elevatorro.tmi.twitch.tv 366 elevatorro #elevatorio :End of /NAMES list
+25.11.2021 12:28:48:    Finished channel joining queue.
+25.11.2021 12:28:48:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+25.11.2021 12:28:49:    Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=493920013;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #elevatorio
+25.11.2021 12:28:49:    Finished channel joining queue.
+25.11.2021 12:28:57:    Received: @badge-info=;badges=broadcaster/1;client-nonce=21a43197d21fcee07cd31ed285373c20;color=;display-name=elevatorio;emotes=;first-msg=0;flags=;id=cac2f051-2d78-45ea-888b-529df1603e07;mod=0;room-id=493920013;subscriber=0;tmi-sent-ts=1637832538215;turbo=0;user-id=493920013;user-type= :elevatorio!elevatorio@elevatorio.tmi.twitch.tv PRIVMSG #elevatorio :!помощь
+25.11.2021 12:28:58:    Received: @badge-info=;badges=moderator/1;color=;display-name=elevatorro;emote-sets=0;mod=1;subscriber=0;user-type=mod :tmi.twitch.tv USERSTATE #elevatorio
+25.11.2021 12:29:32:    Received: :elevatorio!elevatorio@elevatorio.tmi.twitch.tv JOIN #elevatorio
+25.11.2021 12:32:49:    Received: PING :tmi.twitch.tv
+25.11.2021 12:32:49:    Writing: PONG
